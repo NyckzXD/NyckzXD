@@ -5,7 +5,7 @@ Bem-vindo ao meu GitHub!
 ##  Sobre Mim 
 
 -  Estudando **Sistemas de Informação**
--  Atualmente aprendendo: **JavaScript, HTML/CSS, C, C++, Git**
+-  Atualmente aprendendo: **JavaScript, Python, C++ e Git**
 
 Alguns tópicos que quero estudar:  
 
