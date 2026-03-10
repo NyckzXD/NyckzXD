@@ -1,11 +1,11 @@
-# Olá, eu sou Nycolas Fernandes! 👋  
-💻 *Estudante de Programação 
+# Olá, eu sou Nycolas Fernandes!   
+ *Estudante de Programação 
 
 Bem-vindo ao meu GitHub!
-## 🚀 Sobre Mim 
+##  Sobre Mim 
 
-- 📚 Estudando **Sistemas de Informação**
-- 🌱 Atualmente aprendendo: **JavaScript, HTML/CSS, C, C++, Git**
+-  Estudando **Sistemas de Informação**
+-  Atualmente aprendendo: **JavaScript, HTML/CSS, C, C++, Git**
 
 Alguns tópicos que quero estudar:  
 
@@ -16,4 +16,4 @@ Alguns tópicos que quero estudar:
 Aberto a colaborações, dicas e conversas sobre tecnologia!
 
 ---  
-✨ *"O caminho se faz caminhando."*
+ *"O caminho se faz caminhando."*
