@@ -1,5 +1,5 @@
 # Olá, eu sou Nycolas Fernandes!   
- *Estudante de Programação 
+ Estudante de Programação 
 
 Bem-vindo ao meu GitHub!
 ##  Sobre Mim 
@@ -14,6 +14,6 @@ Alguns tópicos que quero estudar:
 - [ ] CyberSecurity
 
 Aberto a colaborações, dicas e conversas sobre tecnologia!
-
+Meu Blog: https://nycolas.dev
 ---  
  *"O caminho se faz caminhando."*
