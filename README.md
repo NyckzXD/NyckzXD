@@ -14,6 +14,7 @@ Alguns tópicos que quero estudar:
 - [ ] CyberSecurity
 
 Aberto a colaborações, dicas e conversas sobre tecnologia!
-Meu Blog: https://nycolas.dev
+
+- Meu Blog: https://nycolas.dev
 ---  
  *"O caminho se faz caminhando."*
