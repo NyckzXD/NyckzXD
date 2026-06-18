@@ -9,7 +9,7 @@ Bem-vindo ao meu GitHub!
 
 Alguns tópicos que quero estudar:  
 
-- [ ] Machine Learning (React, Node.js)
+- [ ] Machine Learning
 - [ ] Banco de Dados (SQL, MongoDB)
 - [ ] CyberSecurity
 
